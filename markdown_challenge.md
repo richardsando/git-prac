@@ -57,4 +57,4 @@ class MyClass
 Using this newly created `set_colour` method we could change the colour of new_class `new_class.set_colour("Orange")`
 
 
-![Godzilla](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjDxqSOhdbhAhXEXSsKHd0HDWMQjRx6BAgBEAU&url=https%3A%2F%2Fwww.amazon.com%2FBandai-Tamashii-Nations-MonsterArts-Godzilla%2Fdp%2FB07M77JQNX&psig=AOvVaw1qeqS0OsQcm4R6Ocv_7Vlo&ust=1555553126048096)
+![alt text](https://images-na.ssl-images-amazon.com/images/I/61CNasoFQrL._SX425_.jpg "Godzilla")
